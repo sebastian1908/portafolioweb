@@ -1,0 +1,24 @@
+# Ignorar entorno virtual de Python (backend)
+back/venv/
+
+# Ignorar cachés de Python
+__pycache__/
+back/__pycache__/
+back/**/*.pyc
+back/**/*.pyo
+back/**/*.pyd
+
+# Ignorar archivos de configuración de VSCode
+.vscode/
+
+# Ignorar dependencias y builds de Node.js (frontend)
+front/node_modules/
+front/dist/
+front/.env
+
+# Ignorar logs
+*.log
+
+# Ignorar archivos del sistema
+.DS_Store
+Thumbs.db 
