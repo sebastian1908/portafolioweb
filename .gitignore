@@ -1,5 +1,6 @@
 # Ignorar entorno virtual de Python (backend)
 back/venv/
+.env
 
 # Ignorar cachés de Python
 __pycache__/
